@@ -1,17 +1,26 @@
 <h1 align="center">Hi 👋, I'm Udayan Sawant</h1>
-<h3 align="center">Sr. Data Engineer | Product Manager</h3>
+<h2 align="center">Sr. Data Engineer | Product Manager</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sawantudayan&label=Profile%20views&color=0e75b6&style=flat" alt="sawantudayan" /> </p>
 
-- 🌱 I’m currently learning **AWS Solution Architect, Financial Risk Management**
+<h3 align="center">🚀 Innovative Data Engineer | AWS Certified | Product Management Enthusiast 🚀</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/sawantudayan](https://github.com/sawantudayan)
+I'm **Udayan Sawant**, a passionate Data Engineer with over 5 years of hands-on experience revolutionizing data infrastructure and driving business success through insightful analytics.
 
-- 📝 I regularly write articles on [https://medium.com/@udayansawant7](https://medium.com/@udayansawant7)
+💡 Innovative Solutions Architect: I thrive on designing and implementing cutting-edge solutions leveraging the latest technologies to optimize data processing efficiency. From developing COBOL Copybook parsers in Python to architecting modernized platforms with Apache Airflow and K8's clusters, I've consistently delivered transformative solutions driving significant cost savings and revenue uplifts.
 
-- 💬 Ask me about **python, sql, mongodb, airflow**
+🌐 Cloud & Big Data Expertise: With AWS certifications, I bring extensive expertise in leveraging cloud platforms to architect robust data lakes & scalable infrastructures. Proficient in Big Data frameworks including Hadoop, MapReduce, and Apache Spark, I effectively manage & analyze high-volume data to extract actionable insights.
 
-- 📫 How to reach me **udayansawant7@gmail.com**
+🔧 ETL & Automation Maestro: I excel in streamlining processes and enhancing operational efficiency through automation. Whether developing automation scripts in Python or utilizing ETL tools like AWS Glue and Informatica PowerCenter, I simplify complex workflows & drive data-centric decision-making.
+
+📊 Strategic Analytics & Visualization: Leveraging advanced statistical techniques & tools such as Databricks and Tableau, I've a track record of uncovering hidden trends, building predictive models, & presenting actionable insights through compelling data visualizations. Empowering organizations to make informed decisions & propel business growth.
+
+🌟 Cross-Functional Leadership: A knack for leading cross-functional teams in designing & implementing real-time data pipelines, fostering collaboration and innovation to drive business-critical initiatives. Bridging the gap between technical complexities & business objectives, instrumental in delivering successful outcomes.
+
+📚 Continuous Learning & Growth: Deeply passionate about staying abreast of emerging technologies and industry trends. Obtaining certifications in cloud computing and data science while pursuing ongoing professional development opportunities, committed to expanding my skill set & driving continuous improvement.
+
+Let's Connect!
+Unlock the full potential of your data and drive actionable insights! Let's collaborate to propel your organization towards data-driven excellence. Reach out to explore how my expertise can innovate, optimize, and achieve success together!
 
 
 <h3 align="left">Connect with me:</h3>
