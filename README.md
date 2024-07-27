@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Udayan Sawant</h1>
 <h3 align="center">Sr. Data Engineer | Product Manager</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sawantudayan&label=Profile%20views&color=0e75b6&style=flat" alt="sawantudayan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sawantudayan&label=Profile%20views&color=0e75b6&style=flat" alt="sawantudayan" /> </p>
 
 <h3 align="center">🚀 Innovative Data Engineer | AWS Certified | Product Management Enthusiast 🚀</h3>
 
