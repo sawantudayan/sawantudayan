@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sawantudayan&label=Profile%20views&color=0e75b6&style=flat" alt="sawantudayan" /> </p>
 
-<h3 align="center">🚀 Embrace the Challenge, Innovate with Purpose. 🚀</h3>
+<h3 align="center">🚀 Embracing the Challenge, Innovating with Purpose - one LLM at a time. 🚀</h3>
 
 Hi, I’m Udayan Sawant – a Generative AI Engineer passionate about building intelligent systems that learn, adapt, and create. With 6+ years of experience at the intersection of Data Engineerg & AI, deep learning, and innovation, I design and deploy next-gen solutions that push the boundaries of what’s possible.
 
