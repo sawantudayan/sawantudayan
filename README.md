@@ -1,26 +1,23 @@
 <h1 align="center">Hi 👋, I'm Udayan Sawant</h1>
-<h3 align="center">Sr. Software Engineer </h3>
+<h3 align="center">Generative AI Engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sawantudayan&label=Profile%20views&color=0e75b6&style=flat" alt="sawantudayan" /> </p>
 
 <h3 align="center">🚀 Embrace the Challenge, Innovate with Purpose. 🚀</h3>
 
-I'm **Udayan Sawant**, a passionate geek with over 6+ years of hands-on experience revolutionizing data infrastructure and driving business success through insightful analytics.
+Hi, I’m Udayan Sawant – a Generative AI Engineer passionate about building intelligent systems that learn, adapt, and create. With 6+ years of experience at the intersection of Data Engineerg & AI, deep learning, and innovation, I design and deploy next-gen solutions that push the boundaries of what’s possible.
 
-💡 **Innovative Solutions Architect**: I thrive on designing and implementing cutting-edge solutions leveraging the latest technologies to optimize data processing efficiency. From developing COBOL Copybook parsers in Python to architecting modernized platforms with Apache Airflow and K8's clusters, I've consistently delivered transformative solutions driving significant cost savings and revenue uplifts.
+🧠 LLM & Foundation Model Specialist: From fine-tuning large language models to orchestrating multimodal AI systems, I work with cutting-edge architectures to solve real-world problems. I build tailored GenAI applications that drive automation, personalization, and enhanced decision-making.
 
-🌐 **Cloud & Big Data Expertise**: With AWS certifications, I bring extensive expertise in leveraging cloud platforms to architect robust data lakes & scalable infrastructures. Proficient in Big Data frameworks including Hadoop, MapReduce, and Apache Spark, I effectively manage & analyze high-volume data to extract actionable insights.
+🛠️ AI Systems Builder: Skilled in developing custom pipelines for model training, evaluation, and deployment. Leveraging tools like Hugging Face, LangChain, and vector databases - Elasticsearch, PineCone, I craft scalable solutions that integrate seamlessly with business workflows.
 
-🔧 **ETL & Automation Maestro**: I excel in streamlining processes and enhancing operational efficiency through automation. Whether developing automation scripts in Python or utilizing ETL tools like AWS Glue and Informatica PowerCenter, I simplify complex workflows & drive data-centric decision-making.
+🧪 Experimentation at Scale: I thrive in rapid prototyping environments—experimenting with prompt engineering, retrieval-augmented generation (RAG), and model optimization techniques to deliver high-impact results, fast.
 
-📊 **Strategic Analytics & Visualization**: Leveraging advanced statistical techniques & tools such as Databricks and Tableau, I've a track record of uncovering hidden trends, building predictive models, & presenting actionable insights through compelling data visualizations. Empowering organizations to make informed decisions & propel business growth.
+🌐 Cloud-Native AI Deployment: Proficient in deploying AI workloads on cloud platforms (Azure, GCP), leveraging GPU-powered compute for training and inference. I build robust, production-ready AI APIs and services with performance and security in mind.
 
-🌟 **Cross-Functional Leadership**: A knack for leading cross-functional teams in designing & implementing real-time data pipelines, fostering collaboration and innovation to drive business-critical initiatives. Bridging the gap between technical complexities & business objectives, instrumental in delivering successful outcomes.
+🤖 Driving AI Innovation: Passionate about human-AI interaction, ethical AI practices, and building explainable, reliable systems. Whether it's enhancing customer experiences or reimagining internal processes, I bring a product-focused mindset to every solution.
 
-📚 **Continuous Learning & Growth**: Deeply passionate about staying abreast of emerging technologies and industry trends. Obtaining certifications in cloud computing and data science while pursuing ongoing professional development opportunities, committed to expanding my skill set & driving continuous improvement.
-
-Let's Connect!
-Unlock the full potential of your data and drive actionable insights! Let's collaborate to propel your organization towards data-driven excellence. Reach out to explore how my expertise can innovate, optimize, and achieve success together!
+📚 Constantly Evolving: In the fast-paced world of AI, I stay ahead by learning continuously—exploring new research, experimenting with open-source tools, and contributing to the AI community.
 
 
 <h3 align="left">Connect with me:</h3>
