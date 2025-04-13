@@ -5,7 +5,7 @@
 
 <h3 align="center">🚀 Embrace the Challenge, Innovate with Purpose. 🚀</h3>
 
-I'm **Udayan Sawant**, a passionate Data Engineer with over 6+ years of hands-on experience revolutionizing data infrastructure and driving business success through insightful analytics.
+I'm **Udayan Sawant**, a passionate geek with over 6+ years of hands-on experience revolutionizing data infrastructure and driving business success through insightful analytics.
 
 💡 **Innovative Solutions Architect**: I thrive on designing and implementing cutting-edge solutions leveraging the latest technologies to optimize data processing efficiency. From developing COBOL Copybook parsers in Python to architecting modernized platforms with Apache Airflow and K8's clusters, I've consistently delivered transformative solutions driving significant cost savings and revenue uplifts.
 
