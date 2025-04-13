@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Udayan Sawant</h1>
-<h3 align="center">Sr. Data Engineer | Product Manager</h3>
+<h3 align="center">Sr. Software Engineer | Founder-in-Training</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sawantudayan&label=Profile%20views&color=0e75b6&style=flat" alt="sawantudayan" /> </p>
 
-<h3 align="center">🚀 Innovative Data Engineer | AWS Certified | Product Management Enthusiast 🚀</h3>
+<h3 align="center">🚀 Embrace the Challenge, Innovate with Purpose. 🚀</h3>
 
 I'm **Udayan Sawant**, a passionate Data Engineer with over 6+ years of hands-on experience revolutionizing data infrastructure and driving business success through insightful analytics.
 
