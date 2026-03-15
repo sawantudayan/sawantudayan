@@ -23,11 +23,10 @@ I don't just ship models. I architect the *systems around them* — the pipeline
 When I'm not wrangling distributed systems or fine-tuning LLMs, you'll find me writing on [Medium](https://medium.com/@udayansawant7) about the system design concepts that actually matter in production.
 
 ```text
-🔭 Currently working on  →  GenAI & ML Platform @ Wells Fargo
-🌱 Obsessing over        →  LLM fine-tuning, RAG pipelines & agentic systems
-✍️  Writing about        →  Distributed systems, system design, AI & cloud
-💬 Ask me about          →  LangChain, vector DBs, Azure/GCP, data pipelines
-⚡ Fun fact              →  I explain CAP theorem better with analogies than textbooks
+🔭 Currently working on : GenAI & ML Platform @ Wells Fargo
+🌱 Obsessing over       : LLM fine-tuning, RAG Pipelines & Agentic Systems
+✍️ Writing about        : Distributed systems, system design, AI & Cloud
+💬 Ask me about         : LangChain, Vector DBs, Azure/GCP, Data Pipelines
 ```
 
 ---
