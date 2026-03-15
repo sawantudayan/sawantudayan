@@ -49,7 +49,7 @@
 
 I'm a **Generative AI & LLM Infrastructure Engineer** living at the intersection of data engineering and AI. I don't just train models — I architect the **systems around them**: the pipelines that feed them, the vector stores that make them smart, the platforms that keep them reliable at scale.
 
-Right now I'm building Feature Infrastructure and the ML Platform at **Wells Fargo**, shipping production GenAI systems on Azure and GCP. Previously I've built at Netflix, First Republic Bank, and UNICEF — each role a layer deeper into the AI and data stack.
+Right now I'm building Feature Infrastructure and the ML Platform at **Wells Fargo**, shipping production GenAI systems on Azure and GCP. Previously I've built at Netflix, J. P. Morgan, First Republic Bank, and UNICEF — each role a layer deeper into the AI and data stack.
 
 When I'm not wrangling distributed systems, I write on [Medium](https://medium.com/@udayansawant7) about the system design patterns that actually matter in production.
 
